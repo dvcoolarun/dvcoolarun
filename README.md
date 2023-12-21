@@ -2,11 +2,11 @@
 
 <br />
 
-I'm a self-taught passionate Front-end Engineer from India 🇮🇳
+I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Freelance](#)
+- 💼 Front-End Engineer at [Freelance](#)
 
 - 📈 Built
   
