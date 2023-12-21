@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Arun. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Arun. I do open source!" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/d0f617945f17322ea9a983a7a0e10b1cc83bd70a/hi%2C%20I'm%20Arun%20!(1).png" /></a></p>
 
 <br />
 
