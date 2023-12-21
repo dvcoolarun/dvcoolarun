@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Front-end Engineer from India 🇮🇳
 
 **About me**
 
@@ -30,7 +30,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <a href="https://github.com/dvcoolarun/pure-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dvcoolarun&repo=pure-react&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/dvcoolarun/hacker-news-search">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dvcoolarun&repo=hacker-news-search&theme=buefy" />
 </a>
 
