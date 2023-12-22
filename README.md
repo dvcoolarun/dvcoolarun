@@ -8,7 +8,7 @@ I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
 - 💼 Front-End Engineer at [Freelance](#)
 
-- 📈 Built
+- 📈 Thinking about components and ways of making them
   
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
