@@ -2,6 +2,9 @@
 
 <br />
 
+
+Hi, I'm Arun 👋
+
 I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
 **About me**
