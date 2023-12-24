@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dvcoolarun&label=Profile%20Visits&color=red&style=for-the-badge&base=5000)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&base=1000
-
 Hi, I'm Arun 👋
 
 I'm a self-taught passionate Front-End Engineer from India 🇮🇳
