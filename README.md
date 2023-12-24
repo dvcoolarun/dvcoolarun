@@ -2,6 +2,7 @@
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=dvcoolarun&label=Profile%20Visits&color=red&style=for-the-badge)
 
 Hi, I'm Arun 👋
 
