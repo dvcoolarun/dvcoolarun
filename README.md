@@ -1,6 +1,6 @@
 <!--- <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Arun. I do open source!" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/d0f617945f17322ea9a983a7a0e10b1cc83bd70a/hi%2C%20I'm%20Arun%20!(1).png" /></a></p> ---> 
 
-![hello.gif](https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/hello.gif)
+![hello.gif](https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/hello.gif)
 
 ![](https://komarev.com/ghpvc/?username=dvcoolarun&label=Profile%20Visits&color=blue&style=for-the-badge&base=5000)
 
