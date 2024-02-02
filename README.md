@@ -10,7 +10,7 @@ I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
 **About me**
 
-- 💼 Front-End Engineer at [Freelance](#)
+- 💼 Front-End Engineer
 
 - 📈 Thinking about components and ways of making them
   
