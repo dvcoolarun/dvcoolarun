@@ -4,8 +4,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dvcoolarun&label=Profile%20Visits&color=blue&style=for-the-badge&base=5000)
 
-<p>If anyone is hiring, please don't hesitate to reach out. I'm available and eager to contribute. You can contact me at dvcoolarun@gmail.com.</p>
-
 Hi, I'm Arun 👋
 
 I'm a self-taught passionate Front-End Engineer from India 🇮🇳
