@@ -6,8 +6,9 @@
 
 Hi, I'm Arun 👋
 <a href="https://twitter.com/dvcoolarun">
-  <img alt="Arun | Twitter" width="21px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
+  <img alt="Arun | Twitter" width="23px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
 </a>
+<a></a>
 <a href="https://codesandbox.io/u/dvcoolarun">
   <img alt="Arun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/codesandbox.svg" />
 </a>
