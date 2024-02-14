@@ -5,6 +5,12 @@
 ![](https://komarev.com/ghpvc/?username=dvcoolarun&label=Profile%20Visits&color=blue&style=for-the-badge&base=5000)
 
 Hi, I'm Arun 👋
+<a href="https://twitter.com/dvcoolarun">
+  <img align="right" alt="Arun | Twitter" width="21px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/dvcoolarun">
+  <img align="right" alt="Arun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/codesandbox.svg" />
+</a>
 
 I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
@@ -27,9 +33,3 @@ I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dvcoolarun&show_icons=true&theme=gotham" alt="dvcoolarun" />
 <br/>
-  <a href="https://twitter.com/dvcoolarun">
-  <img align="right" alt="Arun | Twitter" width="21px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/dvcoolarun">
-  <img align="right" alt="Arun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/codesandbox.svg" />
-</a>
