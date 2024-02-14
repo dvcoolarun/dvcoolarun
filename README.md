@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dvcoolarun&label=Profile%20Visits&color=blue&style=for-the-badge&base=5000)
 
-Hi, I'm Arun 👋
+Hi, I'm Arun 
 <a href="https://twitter.com/dvcoolarun">
   <img alt="Arun | Twitter" width="23px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
 </a>
