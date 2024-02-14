@@ -6,10 +6,10 @@
 
 Hi, I'm Arun 👋
 <a href="https://twitter.com/dvcoolarun">
-  <img align="right" alt="Arun | Twitter" width="21px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
+  <img alt="Arun | Twitter" width="21px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/dvcoolarun">
-  <img align="right" alt="Arun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/codesandbox.svg" />
+  <img alt="Arun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/codesandbox.svg" />
 </a>
 
 I'm a self-taught passionate Front-End Engineer from India 🇮🇳
