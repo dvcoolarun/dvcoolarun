@@ -33,4 +33,6 @@ I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dvcoolarun&show_icons=true&theme=gotham" alt="dvcoolarun" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dvcoolarun&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <br/>
