@@ -34,5 +34,4 @@ I'm a self-taught passionate Front-End Engineer from India 🇮🇳
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dvcoolarun&show_icons=true&theme=gotham" alt="dvcoolarun" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dvcoolarun&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dvcoolarun&theme=dracula)](https://git.io/streak-stats)<br/>
