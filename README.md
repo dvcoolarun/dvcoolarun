@@ -19,9 +19,9 @@ I'm a self-taught passionate Full-Stack Engineer from India 🇮🇳
 
 - 💼 Full-Stack Engineer
 
-- 📈 Thinking about Systems/components and ways of making them
+- 📈 Enjoy thinking about systems, components, and how to build them better.
   
-- ❤️ I love writing Python, TypeScript, and building fun experiments.
+- ❤️ I love writing Python and TypeScript, building fun experiments.
 
 - 💬 Ask me about anything [here](https://github.com/dvcoolarun/dvcoolarun/issues)
 
