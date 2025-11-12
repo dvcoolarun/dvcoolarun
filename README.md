@@ -13,15 +13,15 @@ Hi, I'm Arun
   <img alt="Arun | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dvcoolarun/dvcoolarun/master/assets/codesandbox.svg" />
 </a>
 
-I'm a self-taught passionate Front-End Engineer from India 🇮🇳
+I'm a self-taught passionate Full-Stack Engineer from India 🇮🇳
 
 **About me**
 
-- 💼 Front-End Engineer
+- 💼 Full-Stack Engineer
 
-- 📈 Thinking about components and ways of making them
+- 📈 Thinking about Systems/components and ways of making them
   
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing Python, TypeScript, and building fun experiments.
 
 - 💬 Ask me about anything [here](https://github.com/dvcoolarun/dvcoolarun/issues)
 
